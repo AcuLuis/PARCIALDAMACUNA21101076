@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">travelApp</string>
+    <string name="app_name">travelapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Presupuesto</string>
+    <string name="menu_gallery">Seguros</string>
+    <string name="menu_slideshow">Hoteles</string>
+    <string name="valgetstarted">GET STARTED\n</string>
+    <string name="valsignin">SIGN IN</string>
+    <string name="valemail">Enter email</string>
+    <string name="valpassword">Enter Password</string>
+    <string name="nav_presupuesto">presupuesto</string>
+    <string name="valseguros">seguros</string>
+    <string name="valhoteles">hoteles</string>
+    <string name="valcorreo">admin@travelapp.com</string>
+    <string name="valtitle">travelapp</string>
+    <string name="valpresupuesto">Presupuesto</string>
+    <string name="valcostovuelo">costo de vuelo USD</string>
+    <string name="valcostoaloja">costo de alojamiento por noche USD</string>
+    <string name="valcantidadnoche">cantidad de noches</string>
+    <string name="valcostocomida">costo diario de comidas USD</string>
+    <string name="valterminos">I agree to the terms of services.</string>
+    <string name="valcalcu">calcula</string>
+    <string name="valsubtitle">"El presupuesto total es: "</string>
+    <string name="valempresaseguro">Empresas de Seguros</string>
+    <string name="valhotelest">Hoteles</string>
 </resources>
